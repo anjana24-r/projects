@@ -1,0 +1,25 @@
+.row{
+    width: 100%;
+    border: 2px solid yellow;
+    height: 500px;
+    display: flex;
+}
+.col{
+    width: 30%;
+    height: 200px;
+}
+
+.col1{
+    background-color: thistle;
+    border: 1 px solid blanchedalmond;
+}
+
+.col2{
+    background-color: brown;
+    border: 1px solid black;
+}
+
+.col3{
+    background-color: blueviolet;
+    border: 1px solid black;
+} 

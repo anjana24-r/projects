@@ -1,0 +1,15 @@
+h1{
+ text-align:center;
+ text-decoration:underline;
+ color:blueviolet
+
+}
+#hone{
+    text-align:right;
+    color:#4aa848;
+}
+
+.custom{
+    text-decoration:overline;
+    color:rgb(84, 78, 60);
+}

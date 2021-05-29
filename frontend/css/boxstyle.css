@@ -1,0 +1,14 @@
+div{
+   width: 30%;
+   height: 100px;
+   background-color: steelblue;
+   border: 1px solid springgreen;
+
+}
+.top{
+   margin-left: 254px;
+}
+.bottom{
+   margin-top: 626px;
+   margin-left: 254px;
+}

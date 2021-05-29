@@ -1,0 +1,28 @@
+
+body{
+    background-color: black;
+}
+h3{
+    color: white;
+    text-align: center;
+    font-family: serif;
+    font-weight: 500;
+    margin: 50px;
+}
+span{
+    padding: 25px;
+    margin: 2px;
+}
+.top{
+
+    margin-top: 5px;
+}
+
+div
+{
+    height: 100px;
+}
+.container
+{
+    width: fit-content; margin: 0 auto;  
+}

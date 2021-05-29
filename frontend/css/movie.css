@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200&display=swap');
+body{
+    background-color:black
+}
+h1{
+    color:white;
+    text-align:center;
+    font-family:'Titillium Web', sans-serif;
+}
+
+.movie{
+    text-align:center;
+    color:white;
+    background-color: blue;
+
+    border:1px solid red;
+    width:33%;
+    float:left;
+}
+.section1{
+    background-color:red;
+    
+}
